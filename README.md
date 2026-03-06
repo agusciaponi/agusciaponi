@@ -10,7 +10,7 @@
 I am a **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)**. 
 - 💌 **Connect:** [LinkedIn Profile](PASTE_YOUR_LINK_HERE)
 
-### 🛠️ Technical Stack
+### 🛠️ Skills
 * **Languages:** `C++`, `Java`, `C`, `Python`, `Matlab`
 * **Concepts:** `Memory Management`, `Design Patterns`, `Algorithmic Optimization`, `Algorithm Design`
 
