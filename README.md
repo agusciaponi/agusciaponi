@@ -16,7 +16,7 @@ I am a **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)**.
 
 ### 📊 Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinaCiaponi&show_icons=true&theme=rose_pine&bg_color=FFF9F5&title_color=E8A2AF&icon_color=B22222&hide_border=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusciaponi&show_icons=true&theme=rose_pine&bg_color=FFF9F5&title_color=E8A2AF&icon_color=B22222&hide_border=true" width="450">
 </p>
 
 <p align="center"> 🦢 🎀 🦢 🎀 🦢 </p>
