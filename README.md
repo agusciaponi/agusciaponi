@@ -12,6 +12,5 @@ I am a **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)**.
 
 ### 🛠️ Skills
 * **Languages:** `C++`, `Java`, `C`, `Python`, `Matlab`
-* **Concepts:** `Memory Management`, `Design Patterns`, `Algorithmic Optimization`, `Algorithm Design`
 
 <p align="center"> 🦢 🎀 🦢 🎀 🦢 </p>
