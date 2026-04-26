@@ -8,7 +8,7 @@
 
 ### 🦢 About Me
 I am a **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)**. 
-- 💌 **Connect:** [LinkedIn Profile](PASTE_YOUR_LINK_HERE)
+- 💌 **Connect:** linkedin.com/in/agustina-ciaponi-gonzález-562128359
 
 ### 🛠️ Skills
 * **Languages:** `C++`, `Java`, `C`, `Python`, `Matlab`
